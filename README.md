@@ -43,8 +43,7 @@ Building useful things and learning in public.
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=mrchompdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162981668%3Fu%3D343eab9952b88254ba321f978e715e8807c1992a%26v%3D4" alt="mrchompdev stack visual" />
 </p>
-## DevCard
-<a href="https://daily.dev/mrchompdev"><img src="https://api.daily.dev/devcards/v2/QD4eyGQKZXaw4yugavcNM.png?type=wide&r=sa2" width="652" alt="MrChompDev's Dev Card"/></a>
+
 ## Keep it moving
 
 <p align="center">
